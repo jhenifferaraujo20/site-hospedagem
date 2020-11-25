@@ -1,0 +1,38 @@
+body{
+    background: url(../images/fundo.jpg);
+    background-size: cover;
+    font-family: Verdana;
+    color: white;
+}
+
+.menu{
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.conteudo{
+    text-align: center;
+    padding-top: 10%;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+.video{
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 25px;
+    color: white;
+}
+
+.saiba-mais{
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 25px;
+    color: white;
+}
